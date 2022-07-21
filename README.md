@@ -11,3 +11,5 @@ Cuenta con los siguientes objetos de desarrollo:
 <li><b>ZIF_DATA:</b> Interfaz para el prototipo de las clases locales LCL_DATA que se crearían en los programas ABAP que hagan acceso a la base de datos</li>
 <li><b>ZIF_REPORT:</b> Interfaz para el prototipo de las clases locales LCL_REPORT que se crearían en los programas ABAP de tipo reporte</li>
 <li><b>ZCL_ALV_TABLE:</b> Clase para manejo del ALV simple que abstrae la funcionalidad de la clase CL_SALV_TABLE, usa la interface ZFI_ALV como prototipo</li></ul>
+
+https://blogs.sap.com/2018/09/29/programa-tipo-reporte-usando-poo-version-2/
